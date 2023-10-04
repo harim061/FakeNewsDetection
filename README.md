@@ -4,10 +4,14 @@
 
 ![image](https://github.com/harim061/FakeNewsDetection/assets/90364684/69d840bd-ae60-4222-8db2-3070da95930a)
 
+![image](https://github.com/harim061/FakeNewsDetection/assets/90364684/9e4c8230-6766-4fc9-a404-ed67178fc39a)
+
+
 ## 📌 Point 
 - 뉴스데이터를 사용해서 유튜브 스크립트를 판별해야해서 스크립트 전처리가 포인트
 - 영어 데이터만 존재해 python에 내장된 translate 모듈 사용
 - 판별에 있어 중요한 word 추출
+- snuFact crawling
 
 
 ## 📌 Code
